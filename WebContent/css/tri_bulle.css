@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+span{
+	border: 1px black solid;
+	float: left;
+	margin: 20px;
+	width: 50px;
+	text-align: center;
+}
